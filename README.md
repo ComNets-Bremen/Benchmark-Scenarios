@@ -7,7 +7,7 @@ Inside the 'Scenarios' folder all the scenarios are available in CSV format. Her
 
 Except Typhoon scenarion all other scenarios include two hand crafted traffic traces (High and Low traffic). Since traffic generation pattern for Typhoon scenario is designed with the original dataset from 'Twitter' it only contains one traffic trace. 
 
-The 'Results' folder contains the obtained results for following metrics with different forwarding protocols.  
+The 'Results' folder contains the obtained results for more than 30 different metrics including following with different forwarding protocols.  
 1.Average Hop Count  
 2.Delivery Ratio  
 3.Average Delivery Delay  
