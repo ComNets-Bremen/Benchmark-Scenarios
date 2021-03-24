@@ -3,6 +3,10 @@ This repository contains information about the Benchmark-Scenarios designed for 
 
 The 'Benchmark_Scenarios.pdf' contains descriptive information about all the developed scenarios including descriptions about mobility traces and traffic traces.
 
+Inside the 'Scenarios' folder all the scenarios are available in CSV format. Here mainly mobilty trace and the traffic generation traces are included. All other scenarios include a folder names 'Trace' which includes the mobility trace file. Some of the scenarios are developed with contact traces and some with location traces.
+
+Except Typhoon scenarion all other scenarios include two hand crafted traffic traces (High and Low traffic). Since traffic generation pattern for Typhoon scenario is designed with the original dataset from 'Twitter' it only contains one traffic trace. 
+
 The 'Results' folder contains the obtained results for following metrics with different forwarding protocols.  
 1.Average Hop Count  
 2.Delivery Ratio  
